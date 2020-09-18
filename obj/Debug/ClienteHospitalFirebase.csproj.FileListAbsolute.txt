@@ -1,0 +1,176 @@
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\protectosoa2020hospitalcr-firebase-adminsdk-xbk4c-b0f6c29c36.json
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\ClienteHospitalFirebase.exe.config
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\ClienteHospitalFirebase.exe
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\ClienteHospitalFirebase.pdb
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.Auth.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.Core.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Cloud.Firestore.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Cloud.Firestore.V1.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.LongRunning.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Protobuf.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Auth.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Core.Api.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Core.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Buffers.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Collections.Immutable.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Linq.Async.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Memory.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.pdb
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.pdb
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.pdb
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.Auth.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.Core.pdb
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.Core.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Cloud.Firestore.pdb
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Cloud.Firestore.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Cloud.Firestore.V1.pdb
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Cloud.Firestore.V1.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.LongRunning.pdb
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.LongRunning.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Protobuf.pdb
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Protobuf.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Auth.pdb
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Auth.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Core.pdb
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Core.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Core.Api.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Buffers.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Collections.Immutable.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Linq.Async.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Memory.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.csprojAssemblyReference.cache
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalSWNet.gui.GUIAgregarPaciente.resources
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.Properties.Resources.resources
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.csproj.GenerateResource.cache
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.csproj.CopyComplete
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.exe
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.pdb
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalSWNet.gui.GUIListarPacientes.resources
+C:\Users\crist\OneDrive\Escritorio\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalSWNet.gui.GUIModificarPaciente.resources
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\protectosoa2020hospitalcr-firebase-adminsdk-xbk4c-b0f6c29c36.json
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\grpc_csharp_ext.x86.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\grpc_csharp_ext.x64.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\libgrpc_csharp_ext.x86.so
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\libgrpc_csharp_ext.x64.so
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\libgrpc_csharp_ext.x86.dylib
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\libgrpc_csharp_ext.x64.dylib
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\ClienteHospitalFirebase.exe.config
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\ClienteHospitalFirebase.exe
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\ClienteHospitalFirebase.pdb
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.CommonProtos.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.Grpc.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.Auth.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.Core.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Cloud.Firestore.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Cloud.Firestore.V1.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.LongRunning.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Protobuf.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Auth.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Core.Api.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Core.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Newtonsoft.Json.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Buffers.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Collections.Immutable.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Linq.Async.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Memory.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Numerics.Vectors.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.CommonProtos.pdb
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.CommonProtos.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.pdb
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.Grpc.pdb
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.Grpc.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.pdb
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.pdb
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.Auth.pdb
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.Auth.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.Core.pdb
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Apis.Core.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Cloud.Firestore.pdb
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Cloud.Firestore.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Cloud.Firestore.V1.pdb
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Cloud.Firestore.V1.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.LongRunning.pdb
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.LongRunning.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Protobuf.pdb
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Google.Protobuf.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Auth.pdb
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Auth.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Core.pdb
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Core.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Core.Api.pdb
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Grpc.Core.Api.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\Newtonsoft.Json.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Buffers.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Collections.Immutable.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Linq.Async.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Memory.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Numerics.Vectors.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.csprojAssemblyReference.cache
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalSWNet.gui.GUIAgregarPaciente.resources
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalSWNet.gui.GUIListarPacientes.resources
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalSWNet.gui.GUIModificarPaciente.resources
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.Properties.Resources.resources
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.csproj.GenerateResource.cache
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.csproj.CoreCompileInputs.cache
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.csproj.CopyComplete
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.exe
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.pdb
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.GUIPrincipal.resources
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.GUI.GUIEliminarPaciente.resources
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.GUI.GUIBuscarPaciente.resources
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.GUI.GUIAgregarHistorialClinico.resources
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.GUI.GUIBuscarHistorialClinico.resources
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.GUI.GUIListarHistorialesClinicos.resources
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.GUI.GUIModificarHistorialesClinicos.resources
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.GUI.Eliminar_Historial.resources
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.GUI.GUIListarPacientesParaHistorial.resources
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.GUI.GUIListarPacientePorParametro.resources
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.GUI.GUIListarHistorialesPorParametro.resources
+D:\Firebase .Net\ClienteHospitalFirebase.net\ClienteHospitalFirebase\ClienteHospitalFirebase\obj\Debug\ClienteHospitalFirebase.GUI.GUIListarEnfermedades.resources
